@@ -1,0 +1,13 @@
+#textenter {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  width: 500px;
+  font: "Helvetica";
+  font-size: 2.5em;
+  color: white;
+}
+
+body {
+  background-image: url("vaporwave.gif");
+}
